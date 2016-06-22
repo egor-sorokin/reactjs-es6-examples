@@ -1,6 +1,6 @@
 # reactjs-es6-examples
 ## How to run the project:
-Make a clone of repo or download zip, then:
+Make a clone of repository or download ZIP, then:
 
  ```sh
 $ cd [project-dir]
@@ -13,7 +13,7 @@ By default, the project will use port 3333. If you need you can change it:
 ```sh
 $ cd [project-dir]
 ```
-Then open file *webpack.config.js* and change line 9 (port: 3333)
+Then open the file *webpack.config.js* and change line 9 (port: 3333)
 
 ## Tasks and themes
 Here I covered some themes and did some task related with ReactJS and ECMAScript6. 
