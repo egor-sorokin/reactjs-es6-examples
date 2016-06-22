@@ -14,3 +14,20 @@ By default, the project will use port 3333. If you need you can change it:
 $ cd [project-dir]
 ```
 Then open file *webpack.config.js* and change line 9 (port: 3333)
+
+## Tasks and themes
+Here I covered some themes and did some task related with ReactJS and ECMAScript6. 
+Key words: 
+ - ECMAScript6 syntax
+ - Routing
+ - Animation (on scroll, ReactCSSTransitionGroup)
+ - Carousel/Slider for pictures
+ - To do list with Flux 
+
+
+## Thanks
+Guys from [Bootswatch], who created this cool and simple theme. You can visite their [public repository] and [website]
+
+[Bootswatch]: <http://angularjs.org>
+[public repository]: https://github.com/thomaspark/bootswatch
+[website]: http://bootswatch.com
