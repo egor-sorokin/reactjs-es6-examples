@@ -26,8 +26,7 @@ Key words:
 
 
 ## Thanks
-Guys from [Bootswatch], who created this cool and simple theme. You can visite their [public repository] and [website]
+Guys from Bootswatch, who created this cool and simple theme. You can visite their [public repository] and [website]
 
-[Bootswatch]: <http://angularjs.org>
 [public repository]: https://github.com/thomaspark/bootswatch
 [website]: http://bootswatch.com
