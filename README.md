@@ -20,7 +20,7 @@ Here I covered some themes and did some task related with ReactJS and ECMAScript
 Key words: 
  - ECMAScript6 syntax
  - Routing
- - Animation (on scroll, ReactCSSTransitionGroup)
+ - Animations (on scroll, ReactCSSTransitionGroup)
  - Carousel/Slider for pictures
  - To do list with Flux 
 
