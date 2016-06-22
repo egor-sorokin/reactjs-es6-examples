@@ -8,7 +8,8 @@ $ npm install
 $ npm start
 ```
 
-By default, the project will expose port 3333. If you need you can change it:
+### Change default port
+By default, the project will use port 3333. If you need you can change it:
 ```sh
 $ cd [project-dir]
 ```
