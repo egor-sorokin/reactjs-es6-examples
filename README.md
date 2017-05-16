@@ -17,7 +17,7 @@ $ cd [project-dir]
 Then open the file *webpack.config.js* and change line 9 (port: 3333)
 
 ## Tasks and themes
-Here I covered some themes and did some tasks related with ReactJS and ECMAScript6. 
+Here I covered some themes and did some tasks related to ReactJS and ECMAScript6. 
 Key words: 
  - ECMAScript6 syntax
  - Routing
